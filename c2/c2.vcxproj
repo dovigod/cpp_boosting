@@ -27,7 +27,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3.8.cpp" />
+    <ClCompile Include="4.2.cpp" />
+    <ClCompile Include="extern.cpp" />
+    <ClCompile Include="memsafe.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="externals.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
